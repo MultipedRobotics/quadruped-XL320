@@ -6,13 +6,13 @@
 
 This robot uses XL-320 smart servos from Robotis. It has 3 servos per leg:
 
-![](pics/spider.png)
+<img src="pics/spider.png" width="400px">
 
 - Coxa: red
 - Femur: blue
 - Tibia: yellow
 
-![](pics/spider.jpg)
+<img src="pics/spider.jpg" width="400px">
 
 My robot walking:
 
