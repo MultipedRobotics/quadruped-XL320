@@ -2,6 +2,8 @@
 
 # XL-320 Quadruped
 
+**No works is being done on this robot anymore**
+
 This robot uses XL-320 smart servos from Robotis. It has 3 servos per leg:
 
 ![](pics/spider.png)
@@ -17,11 +19,16 @@ My robot walking:
 -   [YouTube](https://www.youtube.com/watch?v=kH2hlxUfCNg)
 -   [Vimeo](https://player.vimeo.com/video/194676675)
 
-# Files
+# Hardware
 
 - [Mechanical](mechanical/)
 - [Electrical](electrical/)
 
+# Software
+
+This robot uses the [multiped](https://github.com/MultipedRobotics/multiped) library. **Note:**
+the library has progressed, so there maybe some issues with how this robot accessed the library
+years ago!
 
 MIT License
 -----------
